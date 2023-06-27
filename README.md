@@ -5,4 +5,4 @@
  Desenvolvido mais por curiosidade do que por iniciativa de aprendizado. A partir daí tive uma virada de chave 
  e comecei a me aprofundar no front-end. 
 
- <a href="https://victorfreireavfs.github.io/projeto-the-last-of-us/" targe="_blank"> Confira o projeto.</a>
+ <a href="https://victorfreireavfs.github.io/projeto-the-last-of-us/" target="_blank"> Confira o projeto.</a>
